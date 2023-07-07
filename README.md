@@ -1,4 +1,4 @@
-# FileSearcher
+# FileSearch Pro 2.0
 Simple search program, which allows you to search for specific type of files.
 
 There are currently only 4 kinds of file types available: .txt, .gif., .png and .jpg.
